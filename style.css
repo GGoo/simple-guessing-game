@@ -1,0 +1,17 @@
+body{
+    margin:0;
+    padding:0;
+    background: url("Vogel-brama-1.jpg") no-repeat;
+    background-size:cover;
+    color:gray;
+    font-size: larger;
+}
+
+h1, h2{
+    text-align: center;
+
+}
+
+h1{
+    padding-top:2em;
+}
